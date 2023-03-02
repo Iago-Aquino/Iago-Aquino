@@ -1,4 +1,4 @@
-### Olá! Eu sou o Iago Aquino 
+### Oii! Eu sou o Iago Aquino 
 
 - 🔭 Hoje Trabalho como Suporte tecnico
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas
