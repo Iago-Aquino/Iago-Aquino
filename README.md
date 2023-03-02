@@ -1,4 +1,4 @@
-### Oii! Eu sou o Iago Aquino 
+### Oii, Eu sou o Iago Aquino!! 
 
 - 🔭 Hoje Trabalho como Suporte tecnico, porém migrando para Desenvolvedor/Programador. 
 - 👨‍🎓 Fazendo faculdade de Analise e Desenvolvimento de sistemas na UNIP Alphaville, formado em Técnico em Redes de Computadores pelo ITB Professor Munir José.
