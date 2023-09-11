@@ -1,6 +1,6 @@
 ### Oii, Eu sou o Iago Aquino!! 
 
-- 🔭 Hoje Trabalho como Suporte tecnico, porém migrando para Desenvolvedor/Programador. 
+- 🔭 Hoje Trabalho na área de Infra, porém migrando para Desenvolvedor/Programador. 
 - 👨‍🎓 Fazendo faculdade de Analise e Desenvolvimento de sistemas na UNIP Alphaville, formado em Técnico em Redes de Computadores pelo ITB Professor Munir José.
 - 🚀 Tenho conhecimento em Python, certificações Cisco CCNA 1, CCNA 2, CCNA 3, CCNA 4, ITE Essentials e Desenvolvedor de Apps e Games.
 - 📫 Iagoaquino59@gmail.com
